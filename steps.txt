@@ -12,3 +12,7 @@ git add steps.txt
 git status
 git commit -m "steps to start" steps.txt
 git push -u origin master
+
+#After each modification 
+git add or git commit -a -m "some message"
+git push -u origin master
